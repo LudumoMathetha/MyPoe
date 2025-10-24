@@ -28,5 +28,8 @@ The system streamlines the monthly claim submission and approval process for lec
 - Version Control Strategy
 
 ---
+Part2
+Ive updated part 1 and implemnted part 2 functionality to my poe
+
 
 ## Repository Structure
